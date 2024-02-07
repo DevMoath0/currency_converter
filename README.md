@@ -17,23 +17,18 @@
 Currency Converter is an application developed to offer quick, accurate, and easy currency conversion functionalities. It's designed for users who need real-time currency exchange rates for travel, business, or personal finance management. The application aims to provide a seamless experience, allowing users to convert between currencies with just a few taps or clicks.
 
 # Overview
-![VideoRecord]([https://github.com/DevMoath0/BMI-Calculator/assets/109462109/c685a65d-aa52-4f7b-953b-0740549c56f9](https://github.com/DevMoath0/currency_converter/assets/109462109/1b48fb0c-026b-4819-88ca-b08322009e73))
+![VideoRecord](https://github.com/DevMoath0/currency_converter/assets/109462109/9d0ee43a-b3d8-4079-b44b-ed4b2be3c93c)
 
 # ScreenShots
-![MainScreen]([https://github.com/DevMoath0/BMI-Calculator/assets/109462109/0be54386-b8db-4f19-b4fa-bb147e4a496f](https://github.com/DevMoath0/currency_converter/assets/109462109/3e890e6d-81b3-4926-b3d0-62ed9eb6e6a4))
+![HomeScreen](https://github.com/DevMoath0/currency_converter/assets/109462109/3e890e6d-81b3-4926-b3d0-62ed9eb6e6a4)
 
 ## Features
 
-- **User-friendly Interface**: The app offers a clean and easy-to-navigate interface, making it accessible for users of all ages.
+- **Real-time Exchange Rates**: Provides up-to-date currency conversion rates.
 
-- **BMI Calculation**: Quickly and accurately calculates BMI based on user-provided weight and height.
+- **Intuitive Interface**: Easy-to-use for efficient navigation and operation.
 
-- **BMI Interpretation**: Provides a clear interpretation of the calculated BMI, indicating whether the user is underweight, normal weight, or overweight, 
-
-- **Metric and Imperial Units**: Supports both metric and imperial units for weight and height, catering to a global audience.
-
-- **Dark Mode**: The app features a dark mode for enhanced visibility and reduced eye strain in low-light environments.
-
+  
 ## Installation
 
 To run the BMI Calculator app, follow these steps:
