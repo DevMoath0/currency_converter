@@ -31,7 +31,7 @@ Currency Converter is an application developed to offer quick, accurate, and eas
   
 ## Installation
 
-To run the BMI Calculator app, follow these steps:
+To run the Currency Converter app, follow these steps:
 
 1. Clone the repository:
 
